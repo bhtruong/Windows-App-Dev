@@ -1,0 +1,30 @@
+﻿{
+    "Occurrences": [
+        {
+            "Instance": "1",
+            "Title": "Mobile Application Development",
+            "Instructors": [
+                {
+                    "Name": "John Phillips",
+                    "ImageUri": "Assets/Instructor.jpg"
+                },
+                {
+                    "Name": "Clint Parker",
+                    "ImageUri": "Assets/Instructor.jpg"
+                }
+            ],
+            "Participants": [
+                {
+                    "Name": "Brian Truong",
+                    "Image": "Assets/Logo.png",
+                    "Email": "bstruong@calpoly.edu"
+                },
+                {
+                    "Name": "Herman Chai",
+                    "Image": "Assets/Logo.png",
+                    "Email": "hchai@calpoly.edu"
+                }
+            ]
+        }
+    ]
+}
