@@ -19,6 +19,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)Common\ObservableDictionary.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Common\RelayCommand.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Common\SuspensionManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Converters\BooleanToValueConverter.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)DataModel\Participant.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)DataModel\ParticipantList.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)DataModel\ParticipantsDataSource.cs" />

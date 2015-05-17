@@ -17,12 +17,14 @@
                 {
                     "Name": "Brian Truong",
                     "Image": "Assets/Logo.png",
-                    "Email": "bstruong@calpoly.edu"
+                    "Email": "bstruong@calpoly.edu",
+                    "CheckedIn": false
                 },
                 {
                     "Name": "Herman Chai",
                     "Image": "Assets/Logo.png",
-                    "Email": "hchai@calpoly.edu"
+                    "Email": "hchai@calpoly.edu",
+                    "CheckedIn": false
                 }
             ]
         }

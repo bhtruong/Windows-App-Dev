@@ -83,7 +83,8 @@ namespace MyFirstWindowsApp.DataModel
                     {
                         Name = participantObject["Name"].GetString(),
                         Image = participantObject["Image"].GetString(),
-                        Email = participantObject["Email"].GetString()
+                        Email = participantObject["Email"].GetString(),
+                        CheckedIn = participantObject["CheckedIn"].GetBoolean()
                     });
                 }
                 
